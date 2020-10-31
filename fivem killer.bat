@@ -1,0 +1,1 @@
+powershell -Command "Stop-Process -Name fivem"
